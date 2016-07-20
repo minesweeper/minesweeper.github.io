@@ -6,6 +6,6 @@ Or you can embed any number of minesweeper games in your own page by including t
 
 ```html
 <div class="minesweeper-game"></div>
-<script src="https://minesweeper.github.io/4168246993517d718d739ffde089fcbeda4d63fd.js"></script>
+<script src="https://minesweeper.github.io/4b204d9612097148f18a32af81c805e42657c2d4.js"></script>
 ```
 
