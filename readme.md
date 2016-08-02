@@ -29,5 +29,3 @@ Alternatively, you can add a minesweeper controller which will allow users to st
 
 Note that the name must match or the controller will be unable to locate the minesweeper game.
 ```
-
-
