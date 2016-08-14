@@ -6,7 +6,7 @@ Or you can embed any number of minesweeper games in your own page by including t
 
 ```html
 <div class="minesweeper-game" data-preset="expert"></div>
-<script src="https://minesweeper.github.io/6bd56b93f5078b74cbb752b6b6916e6e08e7f502.js"></script>
+<script src="https://minesweeper.github.io/7f257eba71f552c4e4653eb9970a0e1c5193f1cd.js"></script>
 ```
 
 The following presets are available: `beginner`, `intermediate` and `expert`.
@@ -15,7 +15,7 @@ If your preference is to embed a minesweeper game that will play itself (to save
 
 ```html
 <div class="minesweeper-game" data-preset="expert" data-robot="200"></div>
-<script src="https://minesweeper.github.io/6bd56b93f5078b74cbb752b6b6916e6e08e7f502.js"></script>
+<script src="https://minesweeper.github.io/7f257eba71f552c4e4653eb9970a0e1c5193f1cd.js"></script>
 ```
 
 Here `200` is the number of milliseconds the robot player should wait between successive turns.  If your users are really busy or you just want them to be able to cook food using their cpu fan then you may set this value to `0`.
@@ -25,7 +25,7 @@ Alternatively, you can add a minesweeper controller which will allow users to st
 ```html
 <div class="minesweeper-game" data-preset="expert" data-name="expert1"></div>
 <div class="minesweeper-controller" data-name="expert1"></div>
-<script src="https://minesweeper.github.io/6bd56b93f5078b74cbb752b6b6916e6e08e7f502.js"></script>
+<script src="https://minesweeper.github.io/7f257eba71f552c4e4653eb9970a0e1c5193f1cd.js"></script>
 
 Note that the name must match or the controller will be unable to locate the minesweeper game.
 ```
